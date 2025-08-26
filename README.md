@@ -1,4 +1,4 @@
-# ✨SQL_proyect✨
+<h1 align="center">✨SQL_proyect✨</h1> 
 :horse_racing:This is a proyect :rotating_light:
 ***
 ## Table of contents
