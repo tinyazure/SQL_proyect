@@ -1,2 +1,2 @@
 ## SQL_proyect
-#This is a proyect :rotating_light:
+:horse_racing:This is a proyect :rotating_light:
